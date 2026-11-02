@@ -107,4 +107,4 @@ After completing this course, continue with **Python Essentials**, where you wil
 
 ---
 
-Happy coding! 🐍
+🐍
