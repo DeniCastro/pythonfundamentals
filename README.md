@@ -1,4 +1,4 @@
-# 01-python-fundamentals
+# 01 - Python Fundamentals
 
 The first course in the Python learning path. You will go from writing your first `print()` to building a small program of your own, using only the core building blocks of the language.
 
